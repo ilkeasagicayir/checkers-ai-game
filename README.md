@@ -1,5 +1,5 @@
 # checkers ai game
- Playing Checkers with AI.
+ Playing Checkers with AI(minimax algorithm).
  
  
 ![image](https://user-images.githubusercontent.com/79101412/160191958-bf372fef-18c7-4b2e-815b-af67db466ef5.png)
